@@ -32,7 +32,7 @@ const Hero = () => {
           <div className="relative">
             <div className="relative z-10">
               <img 
-                src="/src/assets/GxX0D0aWoAADh-u.jpg" 
+                src="/GxX0D0aWoAADh-u.jpg" 
                 alt="Premium fragrance bottle"
                 className="w-full max-w-md mx-auto rounded-2xl shadow-2xl"
               />

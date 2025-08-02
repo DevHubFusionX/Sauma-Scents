@@ -3,7 +3,7 @@ export const products = [
     id: 1,
     name: "Midnight Oud",
     price: 8500,
-    image: "/src/assets/GxX0QICWgAAkv3m.jpg",
+    image: "/GxX0QICWgAAkv3m.jpg",
     category: "premium",
     badge: "popular"
   },
@@ -11,7 +11,7 @@ export const products = [
     id: 2,
     name: "Citrus Bloom",
     price: 6500,
-    image: "/src/assets/GxXzdP5XYAAtO4j.jpg",
+    image: "/GxXzdP5XYAAtO4j.jpg",
     category: "fresh",
     badge: "new"
   },
@@ -19,14 +19,14 @@ export const products = [
     id: 3,
     name: "Rose Garden",
     price: 7000,
-    image: "/src/assets/GxXzxWIXsAE7uxb.jpg",
+    image: "/GxXzxWIXsAE7uxb.jpg",
     category: "floral"
   },
   {
     id: 4,
     name: "Vanilla Dreams",
     price: 7500,
-    image: "/src/assets/GZyskK3WgAABMrN.jpg",
+    image: "/GZyskK3WgAABMrN.jpg",
     category: "sweet",
     badge: "popular"
   }
@@ -40,7 +40,7 @@ export const combos = [
     originalPrice: 23000,
     discountPrice: 18500,
     discount: "20%",
-    image: "/src/assets/GZyskK4WgAAKlZy.jpg"
+    image: "/GZyskK4WgAAKlZy.jpg"
   },
   {
     id: 2,
@@ -49,7 +49,7 @@ export const combos = [
     originalPrice: 13500,
     discountPrice: 11500,
     discount: "15%",
-    image: "/src/assets/GxX0D0aWoAADh-u.jpg"
+    image: "/GxX0D0aWoAADh-u.jpg"
   }
 ];
 
