@@ -1,4 +1,5 @@
 import { FaInstagram, FaFacebook, FaTwitter, FaWhatsapp, FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
+import Logo from '../ui/Logo';
 
 const Footer = () => {
   return (
@@ -6,7 +7,9 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="font-heading text-2xl font-bold mb-4">Sauma Scents</h3>
+            <div className="mb-4">
+              <Logo textColor="text-white" />
+            </div>
             <p className="text-emerald-100 mb-4">
               Premium scents for every moment. High-quality fragrances delivered in Abuja.
             </p>
